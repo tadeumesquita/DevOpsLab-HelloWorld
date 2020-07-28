@@ -5,4 +5,9 @@
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
+<<<<<<< HEAD
 [App publicado na Heroku](https://labdevops-4linux.herokuapp.com/){:target="_blank"}
+=======
+
+Para maiores informações acesse o [Site da 4Linux](https://www.4linux.com.br/cursos/devops)
+>>>>>>> parent of f92e85c... Update README.md
