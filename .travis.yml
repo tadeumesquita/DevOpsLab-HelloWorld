@@ -6,7 +6,7 @@ python:
   - "3.6.3"
 
 # Faz a instalação com Sudo, para ter privilégio de Super Usuário.
-#sudo: required
+sudo: required
 
 # Instalação de Módulos que são necessários para a Aplicação.
 install:
@@ -19,11 +19,6 @@ script:
 # Defini que o processo de Deploy será na Plataforma Heroku. É necessário informar o nome da APP criada no Heroku
 deploy:
   provider: heroku
-<<<<<<< HEAD
-  api_key: 
-    secure: HEROKU_API_KEY
-=======
   api-key: 
     secure: $HEROKU_API_KEY
->>>>>>> parent of 38caabf... Update travis.yml
   app: labdevops-4linux
