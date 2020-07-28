@@ -5,4 +5,4 @@
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
-[App publicado na Heroku](https://labdevops-4linux.herokuapp.com/)
+[App publicado na Heroku](https://labdevops-4linux.herokuapp.com/){:target="_blank"}
